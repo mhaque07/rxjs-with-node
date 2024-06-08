@@ -5,7 +5,7 @@ another api is /observable/data , this will send data as stream , means as soon 
 #### how to run
 ````
 1. clone the repo
-2. cd simple-node-with-rxjs
+2. cd rxjs-with-node
 3. npm install
 4. npm run start
 now application will run on
